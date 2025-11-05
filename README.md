@@ -3,6 +3,9 @@
 A simple **Command Line Interface (CLI)** tool to help you track and manage your daily tasks efficiently.  
 Easily **add**, **update**, **delete**, and **track progress** of your tasks — all directly from the terminal.
 
+> 📚 This project is based on the [Task Tracker project on roadmap.sh](https://roadmap.sh/projects/task-tracker).  
+> It was developed as part of my learning journey to improve programming skills and work with CLI applications in Python.
+
 ---
 
 ## 🚀 Features
@@ -19,15 +22,15 @@ Easily **add**, **update**, **delete**, and **track progress** of your tasks —
 
 | Command | Description |
 |----------|--------------|
-| `py task_tracker.py add "Task description"` | Add a new task |
-| `py task_tracker.py update <id> "New description"` | Update a task |
-| `py task_tracker.py delete <id>` | Delete a task |
-| `py task_tracker.py mark-in-progress <id>` | Mark task as in progress |
-| `py task_tracker.py mark-done <id>` | Mark task as done |
-| `py task_tracker.py list` | List all tasks |
-| `py task_tracker.py list done` | List done tasks |
-| `py task_tracker.py list not-done` | List not done tasks |
-| `py task_tracker.py list in-progress` | List in-progress tasks |
+| `python task_tracker.py add "Task description"` | Add a new task |
+| `python task_tracker.py update <id> "New description"` | Update a task |
+| `python task_tracker.py delete <id>` | Delete a task |
+| `python task_tracker.py mark-in-progress <id>` | Mark task as in progress |
+| `python task_tracker.py mark-done <id>` | Mark task as done |
+| `python task_tracker.py list` | List all tasks |
+| `python task_tracker.py list done` | List done tasks |
+| `python task_tracker.py list not-done` | List not done tasks |
+| `python task_tracker.py list in-progress` | List in-progress tasks |
 
 ---
 
