@@ -33,8 +33,6 @@ Easily **add**, **update**, **delete**, and **track progress** of your tasks —
 
 ## 💾 Example Usage
 
-| bash |
-|----------|--------------|
 py task_tracker.py add "Finish the CLI project"
 py task_tracker.py mark-in-progress 1
 py task_tracker.py mark-done 1
